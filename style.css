@@ -1,3 +1,50 @@
-body {
+body{
+  background-color:#F7F9F9;
+}
+h1{
+  font-size:400%;
+  letter-spacing:4px;
+  color:#b08968;
+  text-decoration:underline;
+  text-decoration-color: #b08968;
+  font-family: "Times New Roman", Times, serif;
+  
+  
+}
+p{
+  font-size: 200%;
+  color:#b08968;
+}
+img{
+  width:500px;
+   border-style: groove;
+  border-color: #b08968;
+  border-width: 10px;
+
+}
+iframe{
+  
+}
+ul{
+  text-align: center;
+  list-style-type:none;
+}
+li{
+  float: left;
+}
+li a{
+  padding-right: 175px;
+  padding-left:175px;
+  padding-top:20px;
+  padding-bottom:20px;
+
+  color:#582f0e;
+  text-decoration:none;
+
+}
+li a:hover{
+  
+background-color:#ddb892;
+  color: #582f0e;
 
 }
