@@ -1,0 +1,12 @@
+h1{
+  font-size:400%;
+  letter-spacing:4px;
+  color:#b08968;
+  text-decoration:underline;
+  text-decoration-color: #b08968;
+  font-family: "Times New Roman", Times, serif;
+}
+p{
+  font-size: 200%;
+  color:#b08968
+}
