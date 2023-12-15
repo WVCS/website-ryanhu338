@@ -1,5 +1,7 @@
 <html>
   <head> 
+    <link rel="stylesheet" href="style.CS">
+
    <center>
     <h1> Color Sleuth Game </h1>
     <p> Play with a friend and identify which square has the mismatching color! </p>    
