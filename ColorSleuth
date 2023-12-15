@@ -1,0 +1,11 @@
+<html>
+  <head> 
+   <center>
+    <h1> Color Sleuth Game </h1>
+    <p> Play with a friend and identify which square has the mismatching color! </p>    
+     <br><br><br>
+   <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/sWyZMrIDbDLhkaaDpAOTwyzMftsc7Hed8C2sZdvXwj6/embed?nosource"></iframe>
+      <br>
+  </center>
+  </head>
+</html>
