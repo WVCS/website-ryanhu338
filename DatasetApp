@@ -1,5 +1,7 @@
 <html>
   <head> 
+    <link rel="stylesheet" href="style.DSA">
+
    <center>
     <h1> Multi-Screen App </h1>
     <p> Element learner </p>
