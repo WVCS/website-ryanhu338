@@ -1,5 +1,7 @@
 <html>
   <head> 
+    <link rel="stylesheet" href="style.DDA">
+
    <center>
     <h1>Digital Design </h1>
     <p> Made in a group</
