@@ -1,5 +1,7 @@
 <html>
   <head> 
+    <link rel="stylesheet" href="style.CA">
+
    <center>
     <h1> Conditional App </h1>
     <p> Sports Quiz: See what sport you shuold play! </p>
