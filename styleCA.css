@@ -10,3 +10,16 @@ p{
   font-size: 200%;
   color:#b08968
 }
+a{
+  font-size: 200%;
+  color:#b08968
+}
+a:link {
+  text-decoration: underline;
+  
+}
+a:hover {
+  color:#582f0e;
+  background-color: #b08968;
+
+}
